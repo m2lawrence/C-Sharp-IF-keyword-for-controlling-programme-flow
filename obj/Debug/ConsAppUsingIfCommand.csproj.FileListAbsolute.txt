@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppUsingIfCommand\ConsAppUsingIfCommand\bin\Debug\ConsAppUsingIfCommand.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppUsingIfCommand\ConsAppUsingIfCommand\bin\Debug\ConsAppUsingIfCommand.exe
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppUsingIfCommand\ConsAppUsingIfCommand\bin\Debug\ConsAppUsingIfCommand.pdb
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppUsingIfCommand\ConsAppUsingIfCommand\obj\Debug\ConsAppUsingIfCommand.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppUsingIfCommand\ConsAppUsingIfCommand\obj\Debug\ConsAppUsingIfCommand.exe
+c:\users\mike\documents\visual studio 2015\Projects\ConsAppUsingIfCommand\ConsAppUsingIfCommand\obj\Debug\ConsAppUsingIfCommand.pdb
